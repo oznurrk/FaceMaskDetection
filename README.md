@@ -61,8 +61,7 @@ Windows’ta Türkçe klasör yolları sorunu/Yol ayarları düzenlendi
 Veri yolu hatası/flow_from_directory kullanıldı.
 
 Sonuç
-Transfer learning kullanılarak maske tespiti problemi yüksek doğrulukla çözüldü.
-Model, gerçek zamanlı uygulamalara uygun hız ve başarı oranına sahiptir.
+MobileNetV2 kullanılarak yüksek doğruluk oranına sahip, maske tespiti yapan bir model başarıyla oluşturuldu.
 
 Çalıştırma Adımları
 
